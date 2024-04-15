@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+
 export default {
   content: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
   theme: {
@@ -10,7 +11,17 @@ export default {
         '2xl': '1140px'
       }
     },
-    extend: {}
+    colors: {
+      Yellow: '#EBBC68',
+      Green: '#252E00',
+      White: '#FFFFFF'
+    },
+    extend: {
+      fontFamily: {
+        Montserrat: ['Montserrat', 'sans-serif'],
+        Actor: ['Actor', 'sans-serif']
+      }
+    }
   },
   plugins: []
 }

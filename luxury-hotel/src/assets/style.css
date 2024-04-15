@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Actor&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  .active {
+    @apply border-b-2 font-bold;
+  }
+  .button {
+    @apply text-xs py-1 px-2 bg-Yellow text-White rounded-lg lg:px-8 lg:py-2 font-Montserrat font-medium lg:text-sm;
+  }
+  .input {
+    @apply py-1 px-6 border border-Yellow mt-2 mb-2;
+  }
+}
