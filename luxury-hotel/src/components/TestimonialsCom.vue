@@ -1,5 +1,5 @@
 <template>
-  <div class="container text-center mt-20">
+  <div class="container text-center mt-20 mb-20">
     <h1 class="font-Actor text-4xl mb-3">Referanslar</h1>
     <p class="font-Montserrat text-lg font-medium mb-3">
       "Calm, Serene, Retro – What a way to relax and enjoy"

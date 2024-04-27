@@ -1,5 +1,5 @@
 <template>
-  <div class="fade-down">
+  <div class="fade-down mb-16">
     <div class="h-36 bg-Green flex justify-center items-center mb-6"></div>
     <div class="container">
       <h1 class="text-2xl font-bold font-Montserrat text-Green text-center">İLETİŞİM</h1>

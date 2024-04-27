@@ -18,15 +18,15 @@
             <div><img src="../assets/images/rooms/single3.png" alt="" /></div>
           </a-carousel>
           <div
-            class="h-20 text-White w-full bg-Green flex justify-around items-center rounded-b-xl"
+            class="h-20 text-White w-full bg-Green flex justify-center items-center rounded-b-xl"
           >
             <h1 class="font-medium text-3xl font-Montserrat">TEK KİŞİLİK ODALAR</h1>
-            <div class="font-medium font-Montserrat">
+            <!-- <div class="font-medium font-Montserrat">
               <button>
                 <img class="inline-block mr-2" src="../assets/images/icons/add.svg" alt="" /> TÜM
                 ODALARI GÖR
               </button>
-            </div>
+            </div> -->
           </div>
         </div>
         <div class="mb-16 fade-zoom">
@@ -36,15 +36,15 @@
             <div><img src="../assets/images/rooms/double3.png" alt="" /></div>
           </a-carousel>
           <div
-            class="h-20 text-White w-full bg-Green flex justify-around items-center rounded-b-xl"
+            class="h-20 text-White w-full bg-Green flex justify-center items-center rounded-b-xl"
           >
             <h1 class="font-medium text-3xl font-Montserrat">ÇİFT KİŞİLİK ODALAR</h1>
-            <div class="font-medium font-Montserrat">
+            <!-- <div class="font-medium font-Montserrat">
               <button>
                 <img class="inline-block mr-2" src="../assets/images/icons/add.svg" alt="" /> TÜM
                 ODALARI GÖR
               </button>
-            </div>
+            </div> -->
           </div>
         </div>
         <div class="mb-16 fade-zoom">
@@ -54,15 +54,15 @@
             <div><img src="../assets/images/rooms/suite3.png" alt="" /></div>
           </a-carousel>
           <div
-            class="h-20 text-White w-full bg-Green flex justify-around items-center rounded-b-xl"
+            class="h-20 text-White w-full bg-Green flex justify-center items-center rounded-b-xl"
           >
             <h1 class="font-medium text-3xl font-Montserrat">AİLE SUITE ODALAR</h1>
-            <div class="font-medium font-Montserrat">
+            <!-- <div class="font-medium font-Montserrat">
               <button>
                 <img class="inline-block mr-2" src="../assets/images/icons/add.svg" alt="" /> TÜM
                 ODALARI GÖR
               </button>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>

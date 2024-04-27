@@ -1,5 +1,5 @@
 <template>
-  <div class="h-52 w-full bg-Green mt-16 relative">
+  <div class="h-56 w-full bg-Green z-10 relative">
     <div class="polygon">
       <img src="../assets/images/Polygon.png" alt="" />
     </div>

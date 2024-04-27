@@ -17,14 +17,16 @@
     <div
       class="absolute top-44 left-16 lg:top-3/4 lg:left-1/2 lg:-translate-x-32 ml-3 mt-8 -translate-x-12"
     >
-      <button class="button">
-        <img
-          class="inline-block mb-1 w-4 h-4"
-          src="../assets/images/icons/rezervation.svg"
-          alt=""
-        />
-        REZERVASYON YAPTIR
-      </button>
+      <router-link to="/rezervation">
+        <a class="button">
+          <img
+            class="inline-block mb-1 w-4 h-4"
+            src="../assets/images/icons/rezervation.svg"
+            alt=""
+          />
+          REZERVASYON YAPTIR
+        </a></router-link
+      >
     </div>
   </div>
 </template>

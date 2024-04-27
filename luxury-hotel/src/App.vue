@@ -16,7 +16,7 @@ import FooterCom from './components/FooterCom.vue'
 <style>
 @keyframes fade-down {
   from {
-    opacity: 0.8;
+    opacity: 0.9;
     transform: translateY(-6px);
   }
   to {
@@ -26,11 +26,11 @@ import FooterCom from './components/FooterCom.vue'
 }
 @keyframes fade-zoom {
   from {
-    opacity: 0.8;
+    /* opacity: 0.9; */
     transform: scale(0.9);
   }
   to {
-    opacity: 1;
+    /* opacity: 1; */
     transform: scale(1);
   }
 }

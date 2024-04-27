@@ -12,14 +12,22 @@ export default {
       }
     },
     colors: {
-      Yellow: '#EBBC68',
+      Yellow: '#E0B973',
       Green: '#252E00',
-      White: '#FFFFFF'
+      White: '#FFFFFF',
+      Grey: '#F1F2F3'
     },
     extend: {
       fontFamily: {
         Montserrat: ['Montserrat', 'sans-serif'],
         Actor: ['Actor', 'sans-serif']
+      },
+      backgroundImage: {
+        'login-bg': "url('/src/assets/images/sea.png')",
+        'footer-texture': "url('/img/footer-texture.png')"
+      },
+      spacing: {
+        128: '32rem'
       }
     }
   },
